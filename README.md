@@ -39,3 +39,10 @@ This dashboard helps answer questions like:
 
 📌 **Tool Used**: Microsoft Excel  
 🎯 **Focus**: Data cleaning, transformation, and visualization 
+
+---
+
+## 🙋‍♀️ About Me
+
+Hi, I'm **Ciui Lidia Bianca**, a data enthusiast passionate about turning raw data into actionable insights using tools like SQL, Power BI, Excel, and Tableau.  
+Feel free to [connect with me on LinkedIn]( https://www.linkedin.com](https://www.linkedin.com/in/ciui-lidia-4675b0245/ ) or check out more on my [portfolio website](https://your-portfolio-link.com).
